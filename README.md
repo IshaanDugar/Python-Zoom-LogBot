@@ -17,8 +17,11 @@ From the 'Zoom' folder from this repository, you will find files like 'Mon.csv',
 
 
 Inside these, you have to fill the timings and code and passwords, in the form 
+
   TIME, CODE, PASSWORD
+  
   12:30, 12345678, 'ABCDEFGH'
+  
   09:40, 98765432, None 
   
 
