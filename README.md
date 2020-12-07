@@ -3,7 +3,7 @@ There you have it, an auto-logger for your Zoom meetings.
 
 Now, for you to use it, follow these steps for setting up your bot successfully.
 
-#STEP 1
+STEP 1
 From the 'Zoom' folder from this repositery, you will find files like 'Mon.csv', 'Tue.csv'.etc.
 Inside these, you have to fill the timings and code and passwords, in the form 
   'TIME, CODE, PASSWORD'
