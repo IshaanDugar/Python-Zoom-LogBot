@@ -1,7 +1,10 @@
 # Python-Zoom-LogBot
 There you have it, an auto-logger for your Zoom meetings.
 
-### YOU MUST HAVE THE PYTHON LANGUAGE INSTALLED ON YOUR DEVICE FOR THIS TO WORK
+### YOU MUST HAVE THE PYTHON LANGUAGE INSTALLED ON YOUR DEVICE FOR THIS TO WORK ALONG WITH ALL THE LIBRARIES.
+### INSTALL PYTHON FROM https://python.org or https://www.anaconda.com/
+### INSTALL LIBRARIES BY TYPING 'pip install module' where module is the name of the library in the command prompt.
+
 Now, for you to use it, follow these steps for setting up your bot successfully.
 
 From the 'Zoom' folder from this repository, you will find files like 'Mon.csv', 'Tue.csv'.etc.
