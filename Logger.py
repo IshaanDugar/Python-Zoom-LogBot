@@ -66,7 +66,7 @@ def main(codenum,pwd=None):
 
 	pyautogui.click(join2)
 
-	if pwd != None:
+	if pwd != 'None':
 		passw = pyautogui.locateCenterOnScreen(f'{os.getcwd()}\\Zoom\\Pwd.png')
 
 		while passw == None:
