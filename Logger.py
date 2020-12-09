@@ -27,7 +27,7 @@ def findDay(date):
 
 def main(codenum,pwd=None):
 
-	os.startfile('C:\\Users\\rakhe\\AppData\\Roaming\\Zoom\\bin\\Zoom.exe') #ENTER THE PATH TO ZOOM.EXE FILE(Read Description for more details)
+	os.startfile('') #ENTER THE PATH TO ZOOM.EXE FILE(Read Description for more details)
 
 	joinbutton = pyautogui.locateCenterOnScreen(f'{os.getcwd()}\\Zoom\\Join.png') #The primary join button
 	
