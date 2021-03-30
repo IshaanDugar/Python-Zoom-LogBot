@@ -4,6 +4,7 @@ HOPE YOU LIKE IT,
 
 '''
 
+print('Initializing...')	#Just a simple text message that is displayed before the program runs.
 
 '''
 Importing all the necessary libraries
